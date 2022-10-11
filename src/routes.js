@@ -43,7 +43,7 @@ const DetailsIndividus = React.lazy(() => import('./views/details/detailsActeurs
 
 
 //Compte
-const Compte = React.lazy(() => import('./views/compte/Compte'))
+
 
 
 //Compte
@@ -102,7 +102,7 @@ const routes = [
     { path: `/${route_principale}/details/individus`, name: 'Individus Details', element: DetailsIndividus},
 
      //Statistiques
-     { path: `/${route_principale}/compte`, name: 'Compte', element: Compte },
+     { path: `/${route_principale}/details/acteuragent`, name: 'Compte', element: DetailsActeursAgent },
 ]
 
 export default routes
