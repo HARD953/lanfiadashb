@@ -1,0 +1,53 @@
+.connexion{
+    height: 100vh;
+    width: 100%;
+    background-color:rgb(255, 255, 255);
+    padding-top: 5rem;
+}
+
+.connexion-svg{
+    position: fixed;
+    height:100vh;
+    left:0;
+    top:0;
+    bottom:0;
+    display: none;
+}
+
+
+.connexion-card{
+    width: 25rem;
+    min-height:30rem;
+    padding:2rem;
+    box-shadow: 5px 5px 13px #e4e3e3,-5px -5px 13px #e4e3e3;
+    margin:auto;
+    transition: transform 0.4s ease-out;
+    -webkit-transition: transform 0.4s ease-out;
+    -moz-transition: transform 0.4s ease-out;
+    -ms-transition: transform 0.4s ease-out;
+    -o-transition: transform 0.4s ease-out;
+    background-color:rgb(255, 255, 255);
+    
+}
+
+.connexion-card:hover{
+   transform:translateY(8px);
+   -webkit-transform:translateY(8px);
+   -moz-transform:translateY(8px);
+   -ms-transform:translateY(8px);
+   -o-transform:translateY(8px);
+}
+
+
+
+.connexion-titre{
+    text-align: center
+}
+
+.connexion-input-group {
+    margin-top: 3rem;
+}
+
+.connexion-container-boutton{
+    margin-top: 3rem;
+}

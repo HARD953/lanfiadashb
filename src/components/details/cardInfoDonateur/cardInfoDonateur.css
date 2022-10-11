@@ -1,0 +1,24 @@
+
+
+.userCardInfos-titre{
+    font-weight: bold;
+    font-size:16px;
+}
+
+
+.userCardInfos-info-container{
+    border-radius: 2rem;
+    text-align: center;
+    margin:auto;
+    padding: 10px 0px;
+}
+.userCardInfos-info{
+    font-style: italic;
+    font-size:14px;
+    margin: auto;
+}
+
+.card-user{
+    
+    box-shadow: 3px 3px 10px #e4e3e3,-3px -3px 10px #e4e3e3;
+}

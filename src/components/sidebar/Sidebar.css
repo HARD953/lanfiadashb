@@ -1,0 +1,9 @@
+.sidebar{
+    box-shadow: 5px 5px 13px #e4e3e3,-5px -5px 13px #e4e3e3;
+    background:#12829d;
+}
+
+.info-user-brand{
+    background: rgb(25, 26, 62);
+    color: #fff;
+}

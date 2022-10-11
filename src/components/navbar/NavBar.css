@@ -1,0 +1,21 @@
+.navbar{
+    box-shadow: 5px 5px 13px #e4e3e3,-5px -5px 13px #e4e3e3;
+}
+
+.input-navbar-search{
+    width:25rem;
+    border-radius:2rem;
+}
+
+
+
+
+
+@media screen and (max-width: 460px) {
+    .input-navbar-search{
+        width:10rem;
+        border-radius:2rem;
+    }
+    
+    
+  }

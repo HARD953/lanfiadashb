@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "email": "junior@gmail.com",
+            "user_name": "junior_seb",
+            "commune": "Treichville",
+            "first_name": "Junior Seb",
+            "password": "12345678",
+            "adresse": "Treichville",
+            "about_me": "Moi",
+            "is_active": false,
+            "is_staff": false,
+            "is_superuser": "is_superuser"
+        },
+        {
+            "email": "and@gmail.com",
+            "user_name": "and",
+            "commune": "Treichville",
+            "first_name": "Junior Seb",
+            "password": "12345678",
+            "adresse": "Treichville",
+            "about_me": "Moi",
+            "is_active": "is_active",
+            "is_staff": "is_staff",
+            "is_superuser": false
+        }
+        
+       ]
+}
+    
