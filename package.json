@@ -2,9 +2,9 @@
   "name": "lanfiatech-dash",
   "version": "0.1.0",
   "engines": {
-    "node": "16.17.1"
+    "node": "16.17.1",
+    "npm": "8.15.0"
   },
-  "npm": "8.15.0",
   "private": true,
   "dependencies": {
     "@coreui/chartjs": "^3.0.0",
