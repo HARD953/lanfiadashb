@@ -160,7 +160,7 @@ export class ProductService {
             redirect: 'follow'
           };
 
-        return  fetch("http://apivulnerable.herokuapp.com/information/"+id+"/", requestOptions)
+        return  fetch("https://apivulnerable.herokuapp.com/information/"+id+"/", requestOptions)
           .then(response => response.json())
           .then(result => result.chefmenage)
           .catch(error => console.log('error', error));
