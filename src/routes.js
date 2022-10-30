@@ -3,7 +3,7 @@ import React from 'react'
 const detailsadmin = React.lazy(() => import('./views/details/TestData'))
 
 
-
+//Accueil
 const Accueil = React.lazy(() => import('./views/accueil/Accueil'))
 
 //acteurs
